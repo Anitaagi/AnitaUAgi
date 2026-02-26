@@ -1,7 +1,9 @@
 # Hi, I'm Anita Umasom Agi 
 
 Cloud Computing & Data Science
+
 Microsoft Azure • Python • Machine Learning
+
 Building Scalable and Data-Driven Systems
 
 ---
