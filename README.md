@@ -1,19 +1,27 @@
 # Hi, I'm Anita Umasom Agi 
 
- Final-year Science Laboratory Technology student  
-Backend Developer (Flask | Docker | PostgreSQL)  
-Data Science (Python | Pandas | NumPy | ML Basics)  
-Cloud & DevOps (Azure Fundamentals)
+Cloud Computing & Data Science | Azure • Python • ML
+Building Scalable and Data-Driven Systems
 
 ---
 ## About Me
-I combine scientific research knowledge with backend development and data analysis skills.  
-Currently building a 3-tier containerized web application.
+I am a Cloud Computing and Data Scientist  with a background in scientific research.
+I work with Python for data analysis and machine learning, and I am building hands-on experience in cloud infrastructure and containerized applications using Microsoft Azure and Docker.
+My goal is to design scalable, data-driven systems that solve real-world problems.
 
 ---
-##  Currently Learning
-- Advanced backend architecture
-- Cloud deployment workflows
-- Applied machine learning
+## Tech Stack
+
+ Cloud Computing: Microsoft Azure, Cloud Deployment   
+ Data Science: Python, Pandas, NumPy, Machine Learning   
+ Programming: Python  
+ Database: PostgreSQL  
+ DevOps: Docker
+ 
+## Projects
+
+Currently building a 3-tier containerized web application (Flask, PostgreSQL, Docker).
+Deployment and documentation in progress.
+
 ---
  Reach me at: agianita2@gmail.com
