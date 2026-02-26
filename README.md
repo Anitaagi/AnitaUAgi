@@ -1,4 +1,4 @@
-# Hi, I'm Anita Umasom Agi 👋
+# Hi, I'm Anita Umasom Agi 
 
  Final-year Science Laboratory Technology student  
 Backend Developer (Flask | Docker | PostgreSQL)  
