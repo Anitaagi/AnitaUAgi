@@ -23,7 +23,7 @@ My goal is to design scalable, data-driven systems that solve real-world problem
 
 Data Science Certification — Axia Africa
 
-Cloud Computing & DevOps — Tech Crush
+Cloud Computing & DevOps — TechCrush Africa
 
 ## Projects
 
